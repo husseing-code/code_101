@@ -15,8 +15,8 @@ fruit_locations = {
     "Bin 1" : "apple",
     "Bin 2" : "banana",
     "Bin 3" : "strawberry",
-    "Bin 1" : "orange",
-    "Bin 1" : "peach",
+    "Bin 4" : "orange",
+    "Bin 5" : "peach",
 }
 
 print(fruit_locations.get("Bin 3"))

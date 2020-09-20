@@ -1,5 +1,5 @@
 class Circle():
-    radius = 0;
+    radius = 0
 
     def calcCircumfrence(self):
         return 3.141 * 2 *self.radius
